@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_nodes - cou kfsdbfkdsbf ksdfkdfkfk 
- * @tree: poin jsjdjjf kfskbsf lafbs
+ * binary_tree_nodes - countinng
+ * @tree: poining ot o
  * Return: 0
  */
 
